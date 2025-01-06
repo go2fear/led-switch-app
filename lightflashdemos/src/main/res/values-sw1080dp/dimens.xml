@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_tops">260dp</dimen>
+    <dimen name="margin_top_level1">120dp</dimen>
+    <dimen name="margin_top_level2">60dp</dimen>
+    <dimen name="margin_top_level3">130dp</dimen>
+    <dimen name="margin_top_level4">220dp</dimen>
+</resources>
